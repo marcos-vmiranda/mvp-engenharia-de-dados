@@ -1,2 +1,4 @@
-# mvp-engenharia-de-dados
-Projeto final da sprint de engenharia de dados da pós graduação em Ciência de Dados da PUC-RJ
+#### PUC-RJ - Pós graduação em Ciência de Dados
+##### Projeto final (MVP) da sprint de engenharia de dados
+##### Aluno: Marcos Vinícius de Miranda
+
