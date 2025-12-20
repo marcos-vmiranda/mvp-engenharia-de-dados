@@ -14,6 +14,6 @@ Esse documento descreve os arquivos que compõem o projeto:
 - catalogo_bronze_ilhas.jpg: imagem com o catálogo da tabela de ilhas
 - catalogo_bronze_ind_prod_ilha.jpg: imagem com o catálogo da tabela de indicadores
 - catalogo_gold: imagem com o catálogo da versão completa da tabela de indicadores
-- /arquivos-staging/bases.csv: arquivo csv com os dados das bases
-- /arquivos-staging/ilhas.csv: arquivo csv com os dados das ilhas 
-- /arquivos-staging/ind-prod-ilha.csv:  arquivo csv com os dados dos indicadores
+- bases.csv: arquivo csv com os dados das bases
+- ilhas.csv: arquivo csv com os dados das ilhas 
+- ind-prod-ilha.csv:  arquivo csv com os dados dos indicadores
